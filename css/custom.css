@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #ffffff;
     border: 0;
     border-radius: 20px;
-    font-size: 16px;
+    font-size: 12px;
     padding: 10px 30px;
     box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);
 	text-transform: uppercase;
@@ -134,7 +134,7 @@ label {
 .event-banner-wrapper h2 {
     position: absolute;
 	font-family: 'Nixie One', sans-serif;
-	font-size: 4vw;
+	font-size: 3vw;
     font-weight: 900;
 	line-height: 4.5vw;
 	color: #fff;
@@ -261,7 +261,7 @@ label {
  
 .ticketBox .ticket-price-count-box .ticket-control {
 	float: right;
-    width: 120px;
+    width: 140px;
 }
 
 .ticketBox .ticket-price-count-box .ticket-control .form-control {
